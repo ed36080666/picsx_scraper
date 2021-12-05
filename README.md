@@ -1,4 +1,4 @@
-# Python Scraper for [https://pics-x.com](pics-x.com)
+# Python Scraper for [Pics-X.com](https://pics-x.com/)
 
 ## Description
 CLI Python script used to download all images from a Pics-X gallery into the current working directory.
